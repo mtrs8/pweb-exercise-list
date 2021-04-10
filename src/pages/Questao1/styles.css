@@ -1,0 +1,52 @@
+.page-questao1 {
+    width: 100%;
+    height: 100vh;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.page-questao1 h1 {
+    font-size: 20px;
+    color: aliceblue;
+    margin-bottom: 30px;
+}
+
+.page-questao1 a {
+   text-decoration: none;
+   color: rgb(242, 242, 248);
+   margin-bottom: 30px;
+   position: absolute;
+   top: 0;
+   right: 0;
+}
+
+.page-questao1 form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+}
+
+.page-questao1 form input {
+    width: 100%;
+    padding: 5px 10px;
+    margin: 5px 0;
+}
+
+.page-questao1 form button {
+    width: 100%;
+    margin-top: 10px;
+    padding: 5px 10px;
+    background: white;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 250ms ease;
+}
+
+.page-questao1 form button:hover {
+    background: gray;
+}
