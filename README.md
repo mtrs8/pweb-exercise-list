@@ -2,8 +2,8 @@
 
 ## Available Scripts
 
+Runs the app in the development mode.  
 In the project directory, you can run:
-Runs the app in the development mode.\
 
 ### `npm start`
 
